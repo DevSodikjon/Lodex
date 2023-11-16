@@ -1,0 +1,49 @@
+.hero {
+  .hero_items {
+    .hero_items_contentBox {
+      margin-top: 50px;
+      border-radius: 50px;
+
+      .hero_items_contentBox_text {
+        margin: 0 auto;
+        h2 {
+          padding: 21px 0px 30px 0px;
+          text-align: center;
+          font-size: 50px;
+          font-style: normal;
+          font-weight: 900;
+          line-height: 139%;
+          letter-spacing: 1px;
+        }
+        p {
+          text-align: center;
+          font-size: 20px;
+          font-style: normal;
+          font-weight: 400;
+          line-height: 139%;
+          letter-spacing: 0.4px;
+          margin-bottom: 13px;
+        }
+
+        span {
+          width: 100%;
+          .link_box {
+            width: 100%;
+            display: flex;
+            justify-content: end;
+            .link {
+              text-align: right;
+              text-decoration: underline;
+              color: #33caff;
+              font-size: 16px;
+              font-style: normal;
+              font-weight: 400;
+              line-height: 139%; /* 22.24px */
+              letter-spacing: 0.32px;
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "bonsai",
+    "price": "30 000",
+    "color": "Белый"
+  },
+  {
+    "id": 2,
+    "name": "plade",
+    "price": "32 000",
+    "color": "Белый"
+  },
+  {
+    "id": 3,
+    "name": "bonsai",
+    "price": "45 000",
+    "color": "Белый"
+  },
+  {
+    "id": 4,
+    "name": "North face",
+    "price": "35 000",
+    "color": "Белый"
+  },
+  {
+    "id": 5,
+    "name": "Plain Godzilla",
+    "price": "32 000",
+    "color": "Белый"
+  },
+  {
+    "id": 6,
+    "name": "Plain Shark",
+    "price": "45 000",
+    "color": "Белый"
+  },
+  {
+    "id": 7,
+    "name": "bonsai",
+    "price": "45 000",
+    "color": "Белый"
+  },
+  {
+    "id": 8,
+    "name": "North face",
+    "price": "35 000",
+    "color": "Белый"
+  },
+  {
+    "id": 9,
+    "name": "Plain Godzilla",
+    "price": "32 000",
+    "color": "Белый"
+  },
+  {
+    "id": 10,
+    "name": "Plain Shark",
+    "price": "45 000",
+    "color": "Белый"
+  }
+]

@@ -1,0 +1,40 @@
+.brands {
+  .brands_items {
+    .brands_items_title {
+      .title {
+        h3 {
+          text-align: center;
+          font-family: Inter;
+          font-size: 30px;
+          font-style: normal;
+          font-weight: 800;
+          line-height: normal;
+        }
+      }
+      .brands_seeMore {
+        .seeMore {
+          color: #33caff;
+          text-align: center;
+          font-family: Inter;
+          font-size: 20px;
+          font-style: normal;
+          font-weight: 400;
+          line-height: normal;
+        }
+      }
+    }
+
+    .slider {
+      .swiper {
+        padding-left: 100px;
+        padding-bottom: 30px;
+      }
+    }
+
+    .hrLine {
+      width: 100%;
+      height: 1px;
+      background: #000;
+    }
+  }
+}

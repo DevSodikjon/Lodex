@@ -1,0 +1,70 @@
+.card {
+  width: 300px;
+  .card_items {
+    .card_items_img {
+      border-radius: 20px 20px 0px 0px;
+      background: #898989;
+      img {
+        padding: 13px 10px;
+        margin: 0 auto;
+      }
+    }
+
+    .card_items_content {
+      padding: 12px 28px 14px 30px;
+      .prices {
+        p {
+          font-size: 16px;
+          font-style: normal;
+          font-weight: 500;
+          line-height: normal;
+          .priceSpan {
+            color: #f00;
+          }
+        }
+      }
+
+      .hr {
+        height: 1px;
+        background: rgba(0, 0, 0, 0.25);
+      }
+
+      .buttons {
+        .icons {
+          .like {
+            svg:hover {
+              cursor: pointer;
+            }
+          }
+
+          .shoppingCard {
+            .shoppngCardIcon:hover {
+              cursor: pointer;
+            }
+          }
+        }
+        .seeMore {
+          .link {
+            background: #33caff;
+            padding: 6px 10px;
+            border: 2px solid black;
+            border-radius: 30px;
+            text-align: center;
+            font-size: 15px;
+            font-style: normal;
+            font-weight: 500;
+            line-height: normal;
+          }
+        }
+      }
+    }
+  }
+}
+
+.liked {
+  svg {
+    path {
+      fill: #f00;
+    }
+  }
+}

@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito+Sans:ital,opsz,wght@0,6..12,200;0,6..12,300;0,6..12,400;0,6..12,500;0,6..12,600;0,6..12,700;0,6..12,800;0,6..12,900;0,6..12,1000;1,6..12,200;1,6..12,300;1,6..12,400;1,6..12,500;1,6..12,600;1,6..12,700;1,6..12,800;1,6..12,900;1,6..12,1000&display=swap");
+
+header {
+  .header_items {
+    .header_items_navbar {
+      ul {
+        li {
+          .NavbarLink {
+            font-size: 16px;
+            font-style: normal;
+            font-weight: 600;
+            line-height: normal;
+            transition: all 0.3s ease-in-out;
+          }
+
+          .NavbarLink:hover {
+            color: #33caff;
+            text-decoration: underline;
+            line-height: normal;
+            transition: all 0.3s ease-in-out;
+          }
+        }
+      }
+    }
+    .header_items_contact {
+      .contactLink {
+        padding: 7px 10px 6px 11px;
+        background: #33caff;
+        border: 1px solid #33caff;
+        color: #000;
+        text-align: center;
+        font-family: Nunito Sans;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: normal;
+        transition: all 0.3s ease-in-out;
+      }
+      .contactLink:hover {
+        background: transparent;
+        border: 1px solid #33caff;
+        color: #33caff;
+        transition: all 0.3s ease-in-out;
+      }
+    }
+  }
+}
+
+.form-control {
+  form {
+    padding: 9px 112px 9px 111px;
+    span {
+      input {
+        background: transparent;
+        color: white;
+        padding: 5px;
+      }
+    }
+  }
+}

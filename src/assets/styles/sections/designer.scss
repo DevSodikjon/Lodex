@@ -1,0 +1,31 @@
+.designer {
+  .designer_items {
+    .designer_items_title {
+      .title {
+        h3 {
+          font-family: Inter;
+          font-size: 30px;
+          font-style: normal;
+          font-weight: 800;
+          line-height: normal;
+        }
+      }
+      .designer_seeMore {
+        .seeMore {
+          color: #33caff;
+          font-family: Inter;
+          font-size: 20px;
+          font-style: normal;
+          font-weight: 400;
+          line-height: normal;
+        }
+      }
+    }
+
+    .hrLine {
+      width: 100%;
+      height: 1px;
+      background: #000;
+    }
+  }
+}
